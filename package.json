@@ -1,0 +1,11 @@
+{
+    "name": "rsapp-task-template",
+    "version": "1.0.0",
+    "description": "Template for rsapp task",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "author": "lozovaya-collab",
+    "license": "ISC"
+}
